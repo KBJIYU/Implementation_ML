@@ -5,7 +5,7 @@
 
 | No | Title             | Description |
 |----|-------------------|-------------|
-| 1  | Linear Regression |             |
+| 1  | Linear Regression |             |
 
 
 
